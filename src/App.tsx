@@ -137,6 +137,11 @@ function SearchBar() {
           title: "Domestic Violence Protection",
           type: "Resource",
           description: "Understanding your rights and protective measures"
+        },
+        {
+          title: "How to deal with issues",
+          type: "Community",
+          description: "Understanding from experiences of others"
         }
       ]);
     } else {
